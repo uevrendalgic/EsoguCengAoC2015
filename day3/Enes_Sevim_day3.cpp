@@ -30,6 +30,7 @@ int main() {
 				for (int l = 0; l < k; l++) {
 					if (santa_x == santa_xb[l] && santa_y == santa_yb[l]) {
 						ctrl = 1;
+						break;
 					}
 				}
 				if (ctrl == 0) {
@@ -44,6 +45,7 @@ int main() {
 				for (int l = 0; l < k; l++) {
 					if (robo_santa_x == santa_xb[l] && robo_santa_y == santa_yb[l]) {
 						ctrl = 1;
+						break;
 					}
 				}
 				if (ctrl == 0) {
@@ -60,6 +62,7 @@ int main() {
 				for (int l = 0; l < k; l++) {
 					if (santa_x == santa_xb[l] && santa_y == santa_yb[l]) {
 						ctrl = 1;
+						break;
 					}
 				}
 				if (ctrl == 0) {
@@ -74,6 +77,7 @@ int main() {
 				for (int l = 0; l < k; l++) {
 					if (robo_santa_x == santa_xb[l] && robo_santa_y == santa_yb[l]) {
 						ctrl = 1;
+						break;
 					}
 				}
 				if (ctrl == 0) {
@@ -90,6 +94,7 @@ int main() {
 				for (int l = 0; l < k; l++) {
 					if (santa_x == santa_xb[l] && santa_y == santa_yb[l]) {
 						ctrl = 1;
+						break;
 					}
 				}
 				if (ctrl == 0) {
@@ -104,6 +109,7 @@ int main() {
 				for (int l = 0; l < k; l++) {
 					if (robo_santa_x == santa_xb[l] && robo_santa_y == santa_yb[l]) {
 						ctrl = 1;
+						break;
 					}
 				}
 				if (ctrl == 0) {
@@ -120,6 +126,7 @@ int main() {
 				for (int l = 0; l < k; l++) {
 					if (santa_x == santa_xb[l] && santa_y == santa_yb[l]) {
 						ctrl = 1;
+						break;
 					}
 				}
 				if (ctrl == 0) {
@@ -134,6 +141,7 @@ int main() {
 				for (int l = 0; l < k; l++) {
 					if (robo_santa_x == santa_xb[l] && robo_santa_y == santa_yb[l]) {
 						ctrl = 1;
+						break;
 					}
 				}
 				if (ctrl == 0) {
